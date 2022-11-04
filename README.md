@@ -1,4 +1,4 @@
 # docker-postgresql
 
 ## 概要
-PostgreSQLのDockerテンプレートです。
+Docker template for PostgreSQL
